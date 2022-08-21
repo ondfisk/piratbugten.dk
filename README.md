@@ -1,3 +1,3 @@
 # www.piratbugten.dk
 
-Code for deploying <www.piratbugten.dk> to Azure.
+Source code for <www.piratbugten.dk>.
