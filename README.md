@@ -1,3 +1,3 @@
-# www.piratbugten.dk
+# [piratbugten.dk](https://piratbugten.dk)
 
-Source code for <www.piratbugten.dk>.
+Source code for [piratbugten.dk](https://piratbugten.dk).
